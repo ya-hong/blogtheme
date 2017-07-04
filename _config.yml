@@ -5,7 +5,7 @@ menu:
   Tags: /tags
   Music: /music
 #  Categories: /categories
-  ADR: /adarkroom
+  battleship: http://zh.battleship-game.org/
   Github:
     url: https://github.com/klugjo/hexo-theme-clean-blog
     icon: github
