@@ -5,7 +5,7 @@ menu:
   Tags: /tags
   Music: /music
 #  Categories: /categories
-  battleship: http://zh.battleship-game.org/
+  BWE: /BWE
   Github:
     url: https://github.com/klugjo/hexo-theme-clean-blog
     icon: github
